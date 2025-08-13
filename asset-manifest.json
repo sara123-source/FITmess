@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saraFitmess/static/css/main.49ad5630.css",
+    "main.js": "/saraFitmess/static/js/main.fa926b0c.js",
+    "static/media/Banner.png": "/saraFitmess/static/media/Banner.d6c4191a12ab969d5815.png",
+    "static/media/Logo.png": "/saraFitmess/static/media/Logo.f94925a998218255d01e.png",
+    "index.html": "/saraFitmess/index.html",
+    "main.49ad5630.css.map": "/saraFitmess/static/css/main.49ad5630.css.map",
+    "main.fa926b0c.js.map": "/saraFitmess/static/js/main.fa926b0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ad5630.css",
+    "static/js/main.fa926b0c.js"
+  ]
+}
